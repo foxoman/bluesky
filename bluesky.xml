@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <style-scheme version="1.0" name="Blue Sky">
-  <style name="Text" foreground="#babdb6" background="#0202b4" bold="true"/>
+  <style name="Text" foreground="#babdb6" background="#0000b4" bold="true"/>
   <style name="Link" foreground="#5124e3" bold="true"/>
-  <style name="Selection" foreground="#b0bec5" background="#00aaaa" bold="true"/>
+  <style name="Selection" foreground="#2e3436" background="#00aaaa" bold="true"/>
   <style name="LineNumber" foreground="#3465a4" bold="true"/>
   <style name="SearchResult" foreground="#000000" background="#ffef0b" bold="true"/>
   <style name="SearchScope" foreground="#000000" background="#f7fafe" bold="true"/>
@@ -23,7 +23,7 @@
   <style name="Static" foreground="#e0be7c" bold="true"/>
   <style name="VirtualMethod" foreground="#98c379" bold="true"/>
   <style name="Function" foreground="#babdb6" bold="true"/>
-  <style name="Keyword" foreground="#98c379" bold="true"/>
+  <style name="Keyword" foreground="#e0be7c" bold="true"/>
   <style name="PrimitiveType" foreground="#e0be7c" bold="true"/>
   <style name="Operator" foreground="#babdb6" bold="true"/>
   <style name="Preprocessor" foreground="#98c379" bold="true"/>
