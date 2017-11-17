@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme version="1.0" name="BlueSky Bright">
+<style-scheme version="1.0" name="BlueSky">
   <style name="Text" foreground="#ffffff" background="#0000ff" bold="true"/>
   <style name="Link" foreground="#03b0f4" bold="true"/>
   <style name="Selection" foreground="#0000ff" background="#00aaaa" bold="true"/>
