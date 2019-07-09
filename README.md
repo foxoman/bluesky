@@ -40,3 +40,6 @@ If you like this theme, you can use it for freem appricate your support to have 
 
 ## Linux
 `cp bluesky.creatortheme ~/.config/QtProject/qtcreator/themes/`
+
+
+# Then Change the Them and Style in QtCreator Setting window.
