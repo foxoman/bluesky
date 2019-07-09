@@ -28,6 +28,7 @@ If you like this theme, you can use it for freem appricate your support to have 
 
 
 # BlueSky QtCreator Theme
+![QtCreator](https://raw.githubusercontent.com/foxoman/bluesky/master/bluesky.png)
 
 # Install
 
