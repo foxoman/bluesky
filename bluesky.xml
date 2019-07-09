@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme version="1.0" name="Blue Sky">
-  <style name="Text" foreground="#babdb6" background="#0000b4" bold="true"/>
-  <style name="Link" foreground="#5124e3" bold="true"/>
-  <style name="Selection" foreground="#2e3436" background="#00aaaa" bold="true"/>
-  <style name="LineNumber" foreground="#3465a4" bold="true"/>
+<style-scheme version="3.0" name="BlueSky">
+  <style name="Text" foreground="#d3d7cf" background="#3042af" bold="true"/>
+  <style name="Link" foreground="#03b0f4" bold="true"/>
+  <style name="Selection" foreground="#0000ff" background="#00aaaa" bold="true"/>
+  <style name="LineNumber" foreground="#729fcf" bold="true"/>
   <style name="SearchResult" foreground="#000000" background="#ffef0b" bold="true"/>
   <style name="SearchScope" foreground="#000000" background="#f7fafe" bold="true"/>
   <style name="Parentheses" foreground="#babdb6" background="#2e3436" bold="true"/>
@@ -14,40 +14,42 @@
   <style name="Occurrences" foreground="#000000" background="#b4b4b4" bold="true"/>
   <style name="Occurrences.Unused" foreground="#808000" bold="true"/>
   <style name="Occurrences.Rename" foreground="#000000" background="#ff6464" bold="true"/>
-  <style name="Number" foreground="#c678dd" bold="true"/>
-  <style name="String" foreground="#c678dd" bold="true"/>
-  <style name="Type" foreground="#61afef" bold="true"/>
-  <style name="Local" foreground="#e06c75" bold="true"/>
-  <style name="Global" foreground="#e06c75" bold="true"/>
-  <style name="Field" foreground="#e06c75" bold="true"/>
-  <style name="Static" foreground="#e0be7c" bold="true"/>
-  <style name="VirtualMethod" foreground="#98c379" bold="true"/>
-  <style name="Function" foreground="#babdb6" bold="true"/>
-  <style name="Keyword" foreground="#e0be7c" bold="true"/>
-  <style name="PrimitiveType" foreground="#e0be7c" bold="true"/>
-  <style name="Operator" foreground="#babdb6" bold="true"/>
-  <style name="Preprocessor" foreground="#98c379" bold="true"/>
-  <style name="Label" foreground="#c678dd" bold="true"/>
-  <style name="Comment" foreground="#607d8b" bold="true"/>
-  <style name="Doxygen.Comment" foreground="#607d8b" bold="true"/>
-  <style name="Doxygen.Tag" foreground="#55747c" bold="true"/>
-  <style name="VisualWhitespace" foreground="#c0c0c0" bold="true"/>
-  <style name="QmlLocalId" foreground="#e06c75" bold="true"/>
-  <style name="QmlExternalId" foreground="#e06c75" bold="true"/>
-  <style name="QmlTypeId" foreground="#61afef" bold="true"/>
-  <style name="QmlRootObjectProperty" foreground="#e06c75" bold="true"/>
-  <style name="QmlScopeObjectProperty" foreground="#e06c75" bold="true"/>
-  <style name="QmlExternalObjectProperty" foreground="#e06c75" bold="true"/>
-  <style name="JsScopeVar" foreground="#e06c75" bold="true"/>
-  <style name="JsImportVar" foreground="#98c379" bold="true"/>
-  <style name="JsGlobalVar" foreground="#e0be7c" bold="true"/>
-  <style name="QmlStateName" foreground="#e0be7c" bold="true"/>
-  <style name="Binding" foreground="#98c379" bold="true"/>
-  <style name="DisabledCode" foreground="#747474" background="#3c414d" bold="true"/>
+  <style name="Number" foreground="#e478c0" bold="true"/>
+  <style name="String" foreground="#03b0f4" bold="true"/>
+  <style name="Type" foreground="#2aa198" bold="true"/>
+  <style name="Local" foreground="#e478c0" bold="true"/>
+  <style name="Global" foreground="#e478c0" bold="true"/>
+  <style name="Field" foreground="#e478c0" bold="true"/>
+  <style name="Static" foreground="#e9b96e" bold="true"/>
+  <style name="VirtualMethod" foreground="#2aa198" bold="true"/>
+  <style name="Function" foreground="#d3d7cf" bold="true"/>
+  <style name="Keyword" foreground="#e9b96e" bold="true"/>
+  <style name="PrimitiveType" foreground="#e9b96e" bold="true"/>
+  <style name="Operator" foreground="#888a85" bold="true"/>
+  <style name="Overloaded Operator" foreground="#888a85" bold="true"/>
+  <style name="Punctuation" foreground="#888a85" bold="true"/>
+  <style name="Preprocessor" foreground="#2aa198" bold="true"/>
+  <style name="Label" foreground="#e478c0" bold="true"/>
+  <style name="Comment" foreground="#727fff" bold="true"/>
+  <style name="Doxygen.Comment" foreground="#babdb6" bold="true"/>
+  <style name="Doxygen.Tag" foreground="#4b57ff" bold="true"/>
+  <style name="VisualWhitespace" foreground="#d3d7cf" bold="true"/>
+  <style name="QmlLocalId" foreground="#e478c0" bold="true"/>
+  <style name="QmlExternalId" foreground="#e478c0" bold="true"/>
+  <style name="QmlTypeId" foreground="#e9b96e" bold="true"/>
+  <style name="QmlRootObjectProperty" foreground="#e478c0" bold="true"/>
+  <style name="QmlScopeObjectProperty" foreground="#e478c0" bold="true"/>
+  <style name="QmlExternalObjectProperty" foreground="#e478c0" bold="true"/>
+  <style name="JsScopeVar" foreground="#2aa198" bold="true"/>
+  <style name="JsImportVar" foreground="#2aa198" bold="true"/>
+  <style name="JsGlobalVar" foreground="#e9b96e" bold="true"/>
+  <style name="QmlStateName" foreground="#e9b96e" bold="true"/>
+  <style name="Binding" foreground="#2aa198" bold="true"/>
+  <style name="DisabledCode" foreground="#747474" background="#2e3436" bold="true"/>
   <style name="AddedLine" foreground="#00aa00" bold="true"/>
   <style name="RemovedLine" foreground="#ff0000" bold="true"/>
   <style name="DiffFile" foreground="#fcaf3e" bold="true"/>
-  <style name="DiffLocation" foreground="#0000ff" bold="true"/>
+  <style name="DiffLocation" foreground="#03b0f4" bold="true"/>
   <style name="DiffFileLine" foreground="#2e3436" background="#ffff00" bold="true"/>
   <style name="DiffContextLine" foreground="#2e3436" background="#afd7e7" bold="true"/>
   <style name="DiffSourceLine" foreground="#2e3436" background="#ffdfdf" bold="true"/>
@@ -60,6 +62,7 @@
   <style name="Error" bold="true" underlineColor="#ff0000" underlineStyle="SingleUnderline"/>
   <style name="ErrorContext" bold="true" underlineColor="#ff0000" underlineStyle="DotLine"/>
   <style name="Declaration" bold="true"/>
-  <style name="OutputArgument" foreground="#000000" background="#ffffff" bold="true"/>
+  <style name="FunctionDefinition" bold="true"/>
+  <style name="OutputArgument" foreground="#e478c0" bold="true"/>
   <style name="LastStyleSentinel"/>
 </style-scheme>
