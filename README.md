@@ -1,4 +1,4 @@
-# bluesky
+# bluesky V3
 Blue Sky QtCreator Theme inspired by old School windows command shell editors
 
 # Support
@@ -27,21 +27,15 @@ If you like this theme, you can use it for freem appricate your support to have 
 `cp bluesky.xml ~/.config/QtProject/qtcreator/styles/`
 
 
-# Bright Screenshots
-
-### QML
-![QML](https://raw.githubusercontent.com/foxoman/bluesky/master/blueskyb-qml.png)
-
-### Qt C++
-![Qt](https://raw.githubusercontent.com/foxoman/bluesky/master/blueskyb-cpp.png)
+# BlueSky QtCreator Theme
 
 # Install
 
 ## Windows
-`xcopy blueskyb.xml %APPDATA%\QtProject\qtcreator\styles`
+`xcopy bluesky.creatortheme %APPDATA%\QtProject\qtcreator\themes`
 
 ## MacOS
-`cp blueskyb.xml ~/.config/QtProject/qtcreator/styles/`
+`cp bluesky.creatortheme ~/.config/QtProject/qtcreator/themes/`
 
 ## Linux
-`cp blueskyb.xml ~/.config/QtProject/qtcreator/styles/`
+`cp bluesky.creatortheme ~/.config/QtProject/qtcreator/themes/`
